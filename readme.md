@@ -13,7 +13,7 @@
     [本地环境配置](https://github.com/learning511/cs224n-learning-camp/blob/master/environment.md)
 
 
-#### 重要一些的资源：
+## 重要一些的资源：
 1. [深度学习经典论文](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap.git)
 2. [深度学习斯坦福教程](http://deeplearning.stanford.edu/wiki/index.php/UFLDL%E6%95%99%E7%A8%8B)
 3. [廖雪峰python3教程](https://www.liaoxuefeng.com/article/001432619295115c918a094d8954bd493037b03d27bf9a9000)
@@ -41,7 +41,7 @@
 
 （三）在机器学习的最佳实践（偏差/方差理论；在机器学习和人工智能创新过程）。本课程还将使用大量的案例研究，您还将学习如何运用学习算法构建智能机器人（感知，控制），文本的理解（Web搜索，反垃圾邮件），计算机视觉，医疗信息，音频，数据挖掘，和其他领域。
 
-本课程相对以前的机器学习视频cs229(2008)，这个视频更加清晰，而且每课都有ppt课件，推荐学习。
+本课程相对以前的机器学习视频cs229(2008)，这个视频更加清晰，而且每课都有课件，推荐学习。
 
 ## 2.数学知识复习  
 1.[线性代数](http://web.stanford.edu/class/cs224n/readings/cs229-linalg.pdf)  
@@ -58,12 +58,12 @@
 #### 斯坦福资料： 
 - [Python复习](http://web.stanford.edu/class/cs224n/lectures/python-review.pdf)  
 
-#### 4. 中文资料：
+#### 4. 中文书籍推荐：
 - 《机器学习》周志华  
 
--《统计学习方法》李航  
+- 《统计学习方法》李航  
 
--《机器学习课》邹博  
+- 《机器学习课》邹博  
 
 ## 5. 学习安排
 本课程需要X周共18节课，
@@ -88,12 +88,12 @@
 - **课件:** [lecture01课件]()  
 - **笔记:** [lecture01笔记]()  
 第一节： 引言(Introduction)  
-1.1欢迎                                 视频链接:[WelcometoMachineLearning](https://www.bilibili.com/video/av9912938/?p=1)                                            
+1.1欢迎                                视频链接:[WelcometoMachineLearning](https://www.bilibili.com/video/av9912938/?p=1)                                            
 1.2机器学习是什么？                     视频链接:[Welcome](https://www.bilibili.com/video/av9912938/?p=2)                                                             
 1.3监督学习                             视频链接:[WhatisMachineLearning](https://www.bilibili.com/video/av9912938/?p=3)                                               
 1.4无监督学习                           视频链接:[SupervisedLearning](https://www.bilibili.com/video/av9912938/?p=4)                                                  
-2.1模型表示                             视频链接:[UnsupervisedLearning](https://www.bilibili.com/video/av9912938/?p=5) 
-第二节： 单变量线性回归(Linear Regression with One Variable)                                                  
+2.1模型表示                             视频链接:[UnsupervisedLearning](https://www.bilibili.com/video/av9912938/?p=5)  
+第二节： 单变量线性回归(Linear Regression with One Variable)  
 2.2代价函数                             视频链接:[ModelRepresentation](https://www.bilibili.com/video/av9912938/?p=6)                                                 
 2.3代价函数的直观理解I                  视频链接:[CostFunction](https://www.bilibili.com/video/av9912938/?p=7)                                                        
 2.4代价函数的直观理解II                 视频链接:[CostFunction-IntuitionI](https://www.bilibili.com/video/av9912938/?p=8)                                             
@@ -112,7 +112,7 @@
 3.5矩阵乘法的性质                       视频链接:[MatrixMultiplicationProperties](https://www.bilibili.com/video/av9912938/?p=17)                                     
 3.6逆、转置                             视频链接:[InverseandTranspose](https://www.bilibili.com/video/av9912938/?p=18)                                                
 4.1多维特征                             视频链接:[MultipleFeatures](https://www.bilibili.com/video/av9912938/?p=19)  
-第四节： 多变量线性回归(Linear Regression with Multiple Variables)                                                
+第四节： 多变量线性回归(Linear Regression with Multiple Variables)  
 4.2多变量梯度下降                       视频链接:[GradientDescentforMultipleVariables](https://www.bilibili.com/video/av9912938/?p=20)                                
 4.3梯度下降法实践1-特征缩放             视频链接:[GradientDescentinPracticeI-FeatureScaling](https://www.bilibili.com/video/av9912938/?p=21)                          
 4.4梯度下降法实践2-学习率               视频链接:[GradientDescentinPracticeII-LearningRate](https://www.bilibili.com/video/av9912938/?p=22)                           
@@ -129,8 +129,8 @@
 5.4绘图数据                             视频链接:[ComputingonData](https://www.bilibili.com/video/av9912938/?p=29)                                                    
 5.5控制语句：for，while，if语句         视频链接:[PlottingData](https://www.bilibili.com/video/av9912938/?p=30)                                                       
 5.6向量化88                             视频链接:[ControlStatements](https://www.bilibili.com/video/av9912938/?p=31)                                                  
-5.7工作和提交的编程练习                 视频链接:[Vectorization](https://www.bilibili.com/video/av9912938/?p=32) 
-第六节：逻辑回归(Logistic Regression)                                                     
+5.7工作和提交的编程练习                 视频链接:[Vectorization](https://www.bilibili.com/video/av9912938/?p=32)  
+第六节：逻辑回归(Logistic Regression)  
 6.1分类问题                             视频链接:[Classification](https://www.bilibili.com/video/av9912938/?p=33)                                                     
 6.2假说表示                             视频链接:[HypothesisRepresentation](https://www.bilibili.com/video/av9912938/?p=34)                                           
 6.3判定边界                             视频链接:[DecisionBoundary](https://www.bilibili.com/video/av9912938/?p=35)                                                   
@@ -146,9 +146,9 @@
 7.1过拟合的问题                         视频链接:[TheProblemofOverfitting](https://www.bilibili.com/video/av9912938/?p=40)                                            
 7.2代价函数                             视频链接:[CostFunction](https://www.bilibili.com/video/av9912938/?p=41)                                                       
 7.3正则化线性回归                       视频链接:[RegularizedLinearRegression](https://www.bilibili.com/video/av9912938/?p=42)                                        
-7.4正则化的逻辑回归模型                 视频链接:[RegularizedLogisticRegression](https://www.bilibili.com/video/av9912938/?p=43)
+7.4正则化的逻辑回归模型                 视频链接:[RegularizedLogisticRegression](https://www.bilibili.com/video/av9912938/?p=43)  
 
-第八节：神经网络：表述(Neural Networks: Representation)                                        
+第八节：神经网络：表述(Neural Networks: Representation)  
 8.1非线性假设                           视频链接:[Non-linearHypotheses](https://www.bilibili.com/video/av9912938/?p=44)                                               
 8.2神经元和大脑                         视频链接:[NeuronsandtheBrain](https://www.bilibili.com/video/av9912938/?p=45)                                                 
 8.3模型表示1                            视频链接:[ModelRepresentationI](https://www.bilibili.com/video/av9912938/?p=46)                                               
@@ -163,8 +163,8 @@
 第九节1：神经网络的学习(Neural Networks: Learning1)                                                 
 9.1代价函数                             视频链接:[CostFunction](https://www.bilibili.com/video/av9912938/?p=51)                                                       
 9.2反向传播算法                         视频链接:[BackpropagationAlgorithm](https://www.bilibili.com/video/av9912938/?p=52)                                           
-9.3反向传播算法的直观理解               视频链接:[BackpropagationIntuition](https://www.bilibili.com/video/av9912938/?p=53) 
-第九节2：神经网络的学习(Neural Networks: Learning2)                                            
+9.3反向传播算法的直观理解               视频链接:[BackpropagationIntuition](https://www.bilibili.com/video/av9912938/?p=53)  
+第九节2：神经网络的学习(Neural Networks: Learning2)  
 9.4实现注意：展开参数                   视频链接:[ImplementationNote_UnrollingParameters](https://www.bilibili.com/video/av9912938/?p=54)                             
 9.5梯度检验                             视频链接:[GradientChecking](https://www.bilibili.com/video/av9912938/?p=55)                                                   
 9.6随机初始化                           视频链接:[RandomInitialization](https://www.bilibili.com/video/av9912938/?p=56)                                               
@@ -172,7 +172,7 @@
 9.8自主驾驶                             视频链接:[AutonomousDriving](https://www.bilibili.com/video/av9912938/?p=58)  
 作业5：  
 ### week 6  
-第十节：应用机器学习的建议(Advice for Applying Machine Learning)                                                  
+第十节：应用机器学习的建议(Advice for Applying Machine Learning)  
 10.1决定下一步做什么                    视频链接:[DecidingWhattoTryNext](https://www.bilibili.com/video/av9912938/?p=59)                                              
 10.2评估一个假设                        视频链接:[EvaluatingaHypothesis](https://www.bilibili.com/video/av9912938/?p=60)                                              
 10.3模型选择和交叉验证集                视频链接:[ModelSelectionandTrain_Validation_TestSets](https://www.bilibili.com/video/av9912938/?p=61)                         
@@ -181,7 +181,7 @@
 10.6学习曲线                            视频链接:[LearningCurves](https://www.bilibili.com/video/av9912938/?p=64)                                                     
 10.7决定下一步做什么                    视频链接:[DecidingWhattoDoNextRevisited](https://www.bilibili.com/video/av9912938/?p=65)                                      
 11.1首先要做什么                        视频链接:[PrioritizingWhattoWorkOn](https://www.bilibili.com/video/av9912938/?p=66)  
-第十一节：  机器学习系统的设计(Machine Learning System Design)                                           
+第十一节：  机器学习系统的设计(Machine Learning System Design)  
 11.2误差分析                            视频链接:[ErrorAnalysis](https://www.bilibili.com/video/av9912938/?p=67)                                                      
 11.3类偏斜的误差度量                    视频链接:[ErrorMetricsforSkewedClasses](https://www.bilibili.com/video/av9912938/?p=68)                                       
 11.4查准率和查全率之间的权衡            视频链接:[TradingOffPrecisionandRecall](https://www.bilibili.com/video/av9912938/?p=69)                                       
@@ -192,10 +192,10 @@
 第十二节：支持向量机(Support Vector Machines)                                               
 12.1优化目标                            视频链接:[OptimizationObjective](https://www.bilibili.com/video/av9912938/?p=71)                                              
 12.2大边界的直观理解                    视频链接:[LargeMarginIntuition](https://www.bilibili.com/video/av9912938/?p=72)                                               
-12.3数学背后的大边界分类（选修）        视频链接:[MathematicsBehindLargeMarginClassification(Optional)](https://www.bilibili.com/video/av9912938/?p=73)               
+12.3数学背后的大边界分类（选修）        视频链接:[MathematicsBehindLargeMarginClassification(Optional)](https://www.bilibili.com/video/av9912938/?p=73)  
 12.4核函数1                             视频链接:[KernelsI](https://www.bilibili.com/video/av9912938/?p=74)                                                           
 12.5核函数2                             视频链接:[KernelsII](https://www.bilibili.com/video/av9912938/?p=75)                                                          
-12.6使用支持向量机                      视频链接:[UsingAnSVM](https://www.bilibili.com/video/av9912938/?p=76)        
+12.6使用支持向量机                      视频链接:[UsingAnSVM](https://www.bilibili.com/video/av9912938/?p=76)  
 第十三节：聚类(Clustering)                                                   
 13.1无监督学习：简介                    视频链接:[UnsupervisedLearning_Introduction](https://www.bilibili.com/video/av9912938/?p=77)                                  
 13.2K-均值算法                          视频链接:[K-MeansAlgorithm](https://www.bilibili.com/video/av9912938/?p=78)                                                   
@@ -213,7 +213,7 @@
 14.5选择主成分的数量                    视频链接:[ChoosingtheNumberofPrincipalComponents](https://www.bilibili.com/video/av9912938/?p=86)                             
 14.6重建的压缩表示                      视频链接:[ReconstructionfromCompressedRepresentation](https://www.bilibili.com/video/av9912938/?p=87)                         
 14.7主成分分析法的应用建议              视频链接:[AdviceforApplyingPCA](https://www.bilibili.com/video/av9912938/?p=88)  
-第十五节：异常检测(Anomaly Detection)                                                
+第十五节：异常检测(Anomaly Detection)  
 15.1问题的动机                          视频链接:[ProblemMotivation](https://www.bilibili.com/video/av9912938/?p=89)                                                  
 15.2高斯分布                            视频链接:[GaussianDistribution](https://www.bilibili.com/video/av9912938/?p=90)                                               
 15.3算法                                视频链接:[Algorithm](https://www.bilibili.com/video/av9912938/?p=91)                                                          
@@ -232,7 +232,7 @@
 16.4协同过滤算法                        视频链接:[CollaborativeFilteringAlgorithm](https://www.bilibili.com/video/av9912938/?p=100)                                   
 16.5向量化：低秩矩阵分解                视频链接:[Vectorization_LowRankMatrixFactorization](https://www.bilibili.com/video/av9912938/?p=101)                          
 16.6推行工作上的细节：均值归一化        视频链接:[ImplementationalDetail_MeanNormalization](https://www.bilibili.com/video/av9912938/?p=102)  
-第十七节：大规模机器学习(Large Scale Machine Learning)                           
+第十七节：大规模机器学习(Large Scale Machine Learning)  
 17.1大型数据集的学习                    视频链接:[LearningWithLargeDatasets](https://www.bilibili.com/video/av9912938/?p=103)                                         
 17.2随机梯度下降法                      视频链接:[StochasticGradientDescent](https://www.bilibili.com/video/av9912938/?p=104)                                         
 17.3小批量梯度下降                      视频链接:[Mini-BatchGradientDescent](https://www.bilibili.com/video/av9912938/?p=105)                                         
@@ -244,8 +244,8 @@
 ### week 10  
 第十八节1： 应用实例：图片文字识别(Application Example: Photo OCR)                             
 18.1问题描述和流程图                    视频链接:[ProblemDescriptionandPipeline](https://www.bilibili.com/video/av9912938/?p=109)                                     
-18.2滑动窗口                            视频链接:[SlidingWindows](https://www.bilibili.com/video/av9912938/?p=110) 
-第十八节2： 应用实例：图片文字识别(Application Example: Photo OCR)                                                                                
+18.2滑动窗口                            视频链接:[SlidingWindows](https://www.bilibili.com/video/av9912938/?p=110)  
+第十八节2： 应用实例：图片文字识别(Application Example: Photo OCR)  
 18.3获取大量数据和人工数据              视频链接:[GettingLotsofDataandArtificialData](https://www.bilibili.com/video/av9912938/?p=111)                                
 18.4上限分析：哪部分管道的接下去做      视频链接:[CeilingAnalysis_WhatPartofthePipelinetoWorkonNext](https://www.bilibili.com/video/av9912938/?p=112
 作业：10  
