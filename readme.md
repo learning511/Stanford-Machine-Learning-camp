@@ -85,7 +85,7 @@
 
 ## 7.学习安排
 ### week 1 
-**第一节： 引言(Introduction) **  
+**第一节： 引言(Introduction)**  
 1.1欢迎:[Welcome to Machine Learning](https://www.bilibili.com/video/av9912938/?p=1)  
 1.2机器学习是什么？:[Welcome](https://www.bilibili.com/video/av9912938/?p=2)  
 1.3监督学习:[What is Machine Learning](https://www.bilibili.com/video/av9912938/?p=3)  
