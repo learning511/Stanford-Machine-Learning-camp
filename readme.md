@@ -86,12 +86,16 @@
 ## 7.学习安排
 ### week 1 
 **第一节： 引言(Introduction)**  
+课件：[]()  
+笔记：[]()  
 1.1欢迎:[Welcome to Machine Learning](https://www.bilibili.com/video/av9912938/?p=1)  
 1.2机器学习是什么？:[Welcome](https://www.bilibili.com/video/av9912938/?p=2)  
 1.3监督学习:[What is Machine Learning](https://www.bilibili.com/video/av9912938/?p=3)  
 1.4无监督学习:[Supervised Learning](https://www.bilibili.com/video/av9912938/?p=4)  
 
 **第二节： 单变量线性回归(Linear Regression with One Variable)**  
+**课件：**[]()  
+**笔记：**[]()  
 2.1模型表示:[Unsupervised Learning](https://www.bilibili.com/video/av9912938/?p=5)  
 2.2代价函数:[Model Representation](https://www.bilibili.com/video/av9912938/?p=6)  
 2.3代价函数的直观理解I:[Cost Function](https://www.bilibili.com/video/av9912938/?p=7)  
@@ -101,10 +105,12 @@
 2.7梯度下降的线性回归:[Gradient Descent Intuition](https://www.bilibili.com/video/av9912938/?p=11)  
 2.8接下来的内容:[GradientDescentForLinearRegression](https://www.bilibili.com/video/av9912938/?p=12)                                     
 
-作业 1：  
+**作业 1：**:  
 
 ### week 2   
 **第三节： 线性代数回顾(Linear Algebra Review)**  
+**课件：**[]()  
+**笔记：**[]()  
 3.1矩阵和向量:[Matrices and Vectors](https://www.bilibili.com/video/av9912938/?p=13)  
 3.2加法和标量乘法:[Addition and Scalar Multiplication](https://www.bilibili.com/video/av9912938/?p=14)  
 3.3矩阵向量乘法:[Matrix Vector Multiplication](https://www.bilibili.com/video/av9912938/?p=15)  
@@ -112,6 +118,8 @@
 3.5矩阵乘法的性质:[Matrix Multiplication Properties](https://www.bilibili.com/video/av9912938/?p=17)  
 3.6逆、转置:[Inverse and Transpose](https://www.bilibili.com/video/av9912938/?p=18)  
 **第四节： 多变量线性回归(Linear Regression with Multiple Variables)**  
+**课件：**[]()  
+**笔记：**[]()  
 4.1多维特征:[Multiple Features](https://www.bilibili.com/video/av9912938/?p=19)  
 4.2多变量梯度下降:[Gradient Descent for Multiple Variables](https://www.bilibili.com/video/av9912938/?p=20)  
 4.3梯度下降法实践1-特征缩放:[Gradient Descent in Practice I - Feature Scaling](https://www.bilibili.com/video/av9912938/?p=21)  
@@ -121,8 +129,10 @@
 4.7正规方程及不可逆性（选修）:[Normal Equation Noninvertibility (Optional)](https://www.bilibili.com/video/av9912938/?p=25)  
 作业 2：  
 
-### week 3   
-**第五节：Octave教程(Octave Tutorial 选修)（有Python基础可以忽略）**  
+### week 3  
+**第五节：Octave教程(Octave Tutorial 选修)（有Python基础可以忽略）** 
+**课件：**[]()  
+**笔记：**[]()  
 5.1基本操作:[Working on and Submitting Programming Exercises](https://www.bilibili.com/video/av9912938/?p=26)  
 5.2移动数据:[Basic Operations](https://www.bilibili.com/video/av9912938/?p=27)  
 5.3计算数据:[Moving Data Around](https://www.bilibili.com/video/av9912938/?p=28)  
@@ -130,7 +140,10 @@
 5.5控制语句：for，while，if语句:[Plotting Data](https://www.bilibili.com/video/av9912938/?p=30)  
 5.6向量化88:[Control Statements](https://www.bilibili.com/video/av9912938/?p=31) 
 5.7工作和提交的编程练习:[Vectorization](https://www.bilibili.com/video/av9912938/?p=32)  
+
 **第六节：逻辑回归(Logistic Regression)**  
+**课件：**[]()  
+**笔记：**[]()  
 6.1分类问题:[Classification](https://www.bilibili.com/video/av9912938/?p=33)  
 6.2假说表示:[Hypothesis Representation](https://www.bilibili.com/video/av9912938/?p=34)  
 6.3判定边界:[Decision Boundary](https://www.bilibili.com/video/av9912938/?p=35)  
@@ -142,13 +155,16 @@
 
 ### week 4     
 **第七节：正则化(Regularization)**  
-                               
+**课件：**[]()  
+**笔记：**[]()                                 
 7.1过拟合的问题:[The Problem of Overfitting](https://www.bilibili.com/video/av9912938/?p=40)  
 7.2代价函数:[Cost Function](https://www.bilibili.com/video/av9912938/?p=41)  
 7.3正则化线性回归:[Regularized Linear Regression](https://www.bilibili.com/video/av9912938/?p=42)  
 7.4正则化的逻辑回归模型:[Regularized Logistic Regression](https://www.bilibili.com/video/av9912938/?p=43)  
 
 **第八节：神经网络：表述(Neural Networks: Representation)**  
+**课件：**[]()  
+**笔记：**[]()  
 8.1非线性假设:[Non-linear Hypotheses](https://www.bilibili.com/video/av9912938/?p=44)  
 8.2神经元和大脑:[Neurons and the Brain](https://www.bilibili.com/video/av9912938/?p=45)  
 8.3模型表示1:[Model Representation I](https://www.bilibili.com/video/av9912938/?p=46)  
@@ -161,11 +177,15 @@
 
 ### week 5  
 **第九节1：神经网络的学习(Neural Networks: Learning1)**  
+**课件：**[]()  
+**笔记：**[]()  
 9.1代价函数:[Cost Function](https://www.bilibili.com/video/av9912938/?p=51)  
 9.2反向传播算法:[Backpropagation Algorithm](https://www.bilibili.com/video/av9912938/?p=52)  
 9.3反向传播算法的直观理解:[Backpropagation Intuition](https://www.bilibili.com/video/av9912938/?p=53)  
 
 **第九节2：神经网络的学习(Neural Networks: Learning2)**  
+**课件：**[]()  
+**笔记：**[]()  
 9.4实现注意：展开参数:[Implementation Note_ Unrolling Parameters](https://www.bilibili.com/video/av9912938/?p=54)  
 9.5梯度检验:[Gradient Checking](https://www.bilibili.com/video/av9912938/?p=55)  
 9.6随机初始化:[Random Initialization](https://www.bilibili.com/video/av9912938/?p=56)  
@@ -174,6 +194,8 @@
 作业5：  
 ### week 6  
 **第十节：应用机器学习的建议(Advice for Applying Machine Learning)**  
+**课件：**[]()  
+**笔记：**[]()  
 10.1决定下一步做什么:[Deciding What to Try Next](https://www.bilibili.com/video/av9912938/?p=59)  
 10.2评估一个假设:[Evaluating a Hypothesis](https://www.bilibili.com/video/av9912938/?p=60)  
 10.3模型选择和交叉验证集:[Model Selection and Train_Validation_Test Sets](https://www.bilibili.com/video/av9912938/?p=61)  
@@ -182,6 +204,8 @@
 10.6学习曲线:[Learning Curves](https://www.bilibili.com/video/av9912938/?p=64)  
 10.7决定下一步做什么:[Deciding What to Do Next Revisited](https://www.bilibili.com/video/av9912938/?p=65)                                        
 **第十一节：  机器学习系统的设计(Machine Learning System Design)**  
+**课件：**[]()  
+**笔记：**[]()  
 11.1首先要做什么:[Prioritizing What to Work On](https://www.bilibili.com/video/av9912938/?p=66)  
 11.2误差分析:[Error Analysis](https://www.bilibili.com/video/av9912938/?p=67)  
 11.3类偏斜的误差度量:[Error Metrics for Skewed Classes](https://www.bilibili.com/video/av9912938/?p=68)  
@@ -191,6 +215,8 @@
 
 ### week 7  
 **第十二节：支持向量机(Support Vector Machines)**  
+**课件：**[]()  
+**笔记：**[]()  
 12.1优化目标:[Optimization Objective](https://www.bilibili.com/video/av9912938/?p=71)  
 12.2大边界的直观理解:[Large Margin Intuition](https://www.bilibili.com/video/av9912938/?p=72)  
 12.3数学背后的大边界分类（选修）:[Mathematics Behind Large Margin Classification (Optional)](https://www.bilibili.com/video/av9912938/?p=73)  
@@ -199,6 +225,8 @@
 12.6使用支持向量机:[Using An SVM](https://www.bilibili.com/video/av9912938/?p=76)  
 
 **第十三节：聚类(Clustering)**  
+**课件：**[]()  
+**笔记：**[]()  
 13.1无监督学习：简介:[Unsupervised Learning_ Introduction](https://www.bilibili.com/video/av9912938/?p=77)  
 13.2K-均值算法:[K-Means Algorithm](https://www.bilibili.com/video/av9912938/?p=78)  
 13.3优化目标:[Optimization Objective](https://www.bilibili.com/video/av9912938/?p=79)  
@@ -208,6 +236,8 @@
 
 ### week 8
 **第十四节：降维(Dimensionality Reduction)**  
+**课件：**[]()  
+**笔记：**[]()  
 14.1动机一：数据压缩:[Motivation I_ Data Compression](https://www.bilibili.com/video/av9912938/?p=82)  
 14.2动机二：数据可视化:[Motivation II_ Visualization](https://www.bilibili.com/video/av9912938/?p=83)  
 14.3主成分分析问题:[Principal Component Analysis Problem Formulation](https://www.bilibili.com/video/av9912938/?p=84)  
@@ -215,7 +245,10 @@
 14.5选择主成分的数量:[Choosing the Number of Principal Components](https://www.bilibili.com/video/av9912938/?p=86)  
 14.6重建的压缩表示:[Reconstruction from Compressed Representation](https://www.bilibili.com/video/av9912938/?p=87)  
 14.7主成分分析法的应用建议:[Advice for Applying PCA](https://www.bilibili.com/video/av9912938/?p=88)  
+
 **第十五节：异常检测(Anomaly Detection)**  
+**课件：**[]()  
+**笔记：**[]()  
 15.1问题的动机:[Problem Motivation](https://www.bilibili.com/video/av9912938/?p=89)  
 15.2高斯分布:[Gaussian Distribution](https://www.bilibili.com/video/av9912938/?p=90)  
 15.3算法:[Algorithm](https://www.bilibili.com/video/av9912938/?p=91)  
@@ -228,6 +261,8 @@
 
 ### week 9  
 **第十六节：推荐系统(Recommender Systems)**  
+**课件：**[]()  
+**笔记：**[]()  
 16.1问题形式化:[Problem Formulation](https://www.bilibili.com/video/av9912938/?p=97)  
 16.2基于内容的推荐系统:[Content Based Recommendations](https://www.bilibili.com/video/av9912938/?p=98)  
 16.3协同过滤:[Collaborative Filtering](https://www.bilibili.com/video/av9912938/?p=99)  
@@ -236,6 +271,8 @@
 16.6推行工作上的细节：均值归一化:[Implementational Detail_ Mean Normalization](https://www.bilibili.com/video/av9912938/?p=102)  
 
 **第十七节：大规模机器学习(Large Scale Machine Learning)**  
+**课件：**[]()  
+**笔记：**[]()  
 17.1大型数据集的学习:[Learning With Large Datasets](https://www.bilibili.com/video/av9912938/?p=103)  
 17.2随机梯度下降法:[Stochastic Gradient Descent](https://www.bilibili.com/video/av9912938/?p=104)  
 17.3小批量梯度下降:[Mini-Batch Gradient Descent](https://www.bilibili.com/video/av9912938/?p=105)  
@@ -247,6 +284,8 @@
 
 ### week 10  
 **第十八节1： 应用实例：图片文字识别(Application Example: Photo OCR)**  
+**课件：**[]()  
+**笔记：**[]()  
 18.1问题描述和流程图:[Problem Description and Pipeline](https://www.bilibili.com/video/av9912938/?p=109)  
 18.2滑动窗口:[Sliding Windows](https://www.bilibili.com/video/av9912938/?p=110)   
 第十八节2： 应用实例：图片文字识别(Application Example: Photo OCR)    
@@ -256,5 +295,7 @@
 作业：10  
 ### week 11
 **第十九节：总结(Conclusion)**  
+**课件：**[]()  
+**笔记：**[]()  
 19.1总结和致谢:[Summary and Thank You](https://www.bilibili.com/video/av9912938/?p=113)  
 课程比赛：比赛  
