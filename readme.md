@@ -93,8 +93,8 @@
 1.4无监督学习:[Supervised Learning](https://www.bilibili.com/video/av9912938/?p=4)  
 
 **第二节： 单变量线性回归(Linear Regression with One Variable)**  
-**课件：**[]()  
-**笔记：**[]()  
+**课件：**[lecture1]()  
+**笔记：**[lecture1-note]()  
 2.1模型表示:[Unsupervised Learning](https://www.bilibili.com/video/av9912938/?p=5)  
 2.2代价函数:[Model Representation](https://www.bilibili.com/video/av9912938/?p=6)  
 2.3代价函数的直观理解I:[Cost Function](https://www.bilibili.com/video/av9912938/?p=7)  
