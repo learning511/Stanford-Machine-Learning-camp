@@ -86,7 +86,7 @@
 ### week 1 
 **第一节： 引言(Introduction)**  
 **课件：**[lecture1](https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Course/lecture%20/Lecture1.pdf)  
-**笔记：**[ecture1-note1](https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Course/lecture-notes/lecture1.pdf)  
+**笔记：**[lecture1-note1](https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Course/lecture-notes/lecture1.pdf)  
 **视频：**  
 	1.1欢迎:[Welcome to Machine Learning](https://www.bilibili.com/video/av9912938/?p=1)  
 	1.2机器学习是什么？:[Welcome](https://www.bilibili.com/video/av9912938/?p=2)  
@@ -95,16 +95,16 @@
 
 **第二节： 单变量线性回归(Linear Regression with One Variable)**  
 **课件：**[lecture2](https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Course/lecture%20/Lecture2.pdf)  
-**笔记：**[lecture1-note2](https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Course/lecture-notes/lecture2.pdf) 
+**笔记：**[lecture2-note2](https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Course/lecture-notes/lecture2.pdf) 
 **视频：**    
-	2.1模型表示:[Unsupervised Learning](https://www.bilibili.com/video/av9912938/?p=5)  
-	2.2代价函数:[Model Representation](https://www.bilibili.com/video/av9912938/?p=6)  
-	2.3代价函数的直观理解I:[Cost Function](https://www.bilibili.com/video/av9912938/?p=7)  
-	2.4代价函数的直观理解II:[Cost Function - Intuition I](https://www.bilibili.com/video/av9912938/?p=8)  
-	2.5梯度下降:[Cost Function - Intuition II](https://www.bilibili.com/video/av9912938/?p=9)  
-	2.6梯度下降的直观理解:[Gradient Descent](https://www.bilibili.com/video/av9912938/?p=10)  
-	2.7梯度下降的线性回归:[Gradient Descent Intuition](https://www.bilibili.com/video/av9912938/?p=11)  
-	2.8接下来的内容:[GradientDescentForLinearRegression](https://www.bilibili.com/video/av9912938/?p=12)                                     
+		2.1模型表示:[Unsupervised Learning](https://www.bilibili.com/video/av9912938/?p=5)  
+		2.2代价函数:[Model Representation](https://www.bilibili.com/video/av9912938/?p=6)  
+		2.3代价函数的直观理解I:[Cost Function](https://www.bilibili.com/video/av9912938/?p=7)  
+		2.4代价函数的直观理解II:[Cost Function - Intuition I](https://www.bilibili.com/video/av9912938/?p=8)  
+		2.5梯度下降:[Cost Function - Intuition II](https://www.bilibili.com/video/av9912938/?p=9)  
+		2.6梯度下降的直观理解:[Gradient Descent](https://www.bilibili.com/video/av9912938/?p=10)  
+		2.7梯度下降的线性回归:[Gradient Descent Intuition](https://www.bilibili.com/video/av9912938/?p=11)  
+		2.8接下来的内容:[GradientDescentForLinearRegression](https://www.bilibili.com/video/av9912938/?p=12)                                     
 
 **作业 Week1：**:  
 1.环境配置  
@@ -113,7 +113,7 @@
 ### week 2   
 **第三节： 线性代数回顾(Linear Algebra Review)**  
 **课件：**[lecture3](https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Course/lecture%20/Lecture3.pdf)  
-**笔记：**[lecture1-note3](https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Course/lecture-notes/lecture3.pdf)  
+**笔记：**[lecture3-note3](https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Course/lecture-notes/lecture3.pdf)  
 **视频：**  
 	3.1矩阵和向量:[Matrices and Vectors](https://www.bilibili.com/video/av9912938/?p=13)  
 	3.2加法和标量乘法:[Addition and Scalar Multiplication](https://www.bilibili.com/video/av9912938/?p=14)  
@@ -124,7 +124,7 @@
 	
 **第四节： 多变量线性回归(Linear Regression with Multiple Variables)**  
 **课件：**[lecture4](https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Course/lecture%20/Lecture4.pdf)  
-**笔记：**[lecture1-note4](https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Course/lecture-notes/lecture4.pdf)  
+**笔记：**[lecture4-note4](https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Course/lecture-notes/lecture4.pdf)  
 **视频：**  
 	4.1多维特征:[Multiple Features](https://www.bilibili.com/video/av9912938/?p=19)  
 	4.2多变量梯度下降:[Gradient Descent for Multiple Variables](https://www.bilibili.com/video/av9912938/?p=20)  
@@ -138,7 +138,7 @@
 2.多远线性回归 Linear Regression with multiple variables
 
 ### Week 3  
-**第五节：Octave教程(Octave Tutorial 选修)（有Python基础可以忽略）** 
+**第五节：Octave教程(Octave Tutorial 选修)（有Python基础可以忽略）**  
 **课件：**[lecture5](https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Course/lecture%20/Lecture5.pdf)  
 **笔记：**[lecture1-note5](https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Course/lecture-notes/lecture5.pdf)  
 **视频：**  
@@ -147,7 +147,7 @@
 	5.3计算数据:[Moving Data Around](https://www.bilibili.com/video/av9912938/?p=28)  
 	5.4绘图数据:[Computing on Data](https://www.bilibili.com/video/av9912938/?p=29)  
 	5.5控制语句：for，while，if语句:[Plotting Data](https://www.bilibili.com/video/av9912938/?p=30)  
-	5.6向量化88:[Control Statements](https://www.bilibili.com/video/av9912938/?p=31) 
+	5.6向量化88:[Control Statements](https://www.bilibili.com/video/av9912938/?p=31)  
 	5.7工作和提交的编程练习:[Vectorization](https://www.bilibili.com/video/av9912938/?p=32)  
 
 **第六节：逻辑回归(Logistic Regression)**  
