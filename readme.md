@@ -95,7 +95,7 @@
 
 **第二节： 单变量线性回归(Linear Regression with One Variable)**  
 **课件：**[lecture2](https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Course/lecture%20/Lecture2.pdf)  
-**笔记：**[lecture2-note2](https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Course/lecture-notes/lecture2.pdf) 
+**笔记：**[lecture2-note2](https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Course/lecture-notes/lecture2.pdf)  
 **视频：**    
 		2.1模型表示:[Unsupervised Learning](https://www.bilibili.com/video/av9912938/?p=5)  
 		2.2代价函数:[Model Representation](https://www.bilibili.com/video/av9912938/?p=6)  
@@ -195,8 +195,8 @@
 ### Week 5  
 **第九节1：神经网络的学习(Neural Networks: Learning1)**  
 **课件：**[lecture9](https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Course/lecture%20/Lecture9.pdf)  
-**笔记：**[lecture9-note9](https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Course/lecture-notes/lecture9.pdf)  
-
+**笔记：**[lecture9-note9](https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Course/lecture-notes/lecture9.pdf)   
+**视频：**   
 	9.1代价函数:[Cost Function](https://www.bilibili.com/video/av9912938/?p=51)  
 	9.2反向传播算法:[Backpropagation Algorithm](https://www.bilibili.com/video/av9912938/?p=52)  
 	9.3反向传播算法的直观理解:[Backpropagation Intuition](https://www.bilibili.com/video/av9912938/?p=53)  
@@ -204,6 +204,7 @@
 **第九节2：神经网络的学习(Neural Networks: Learning2)**  
 **课件：**[lecture9](https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Course/lecture%20/Lecture9.pdf)  
 **笔记：**[lecture9-note9](https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Course/lecture-notes/lecture9.pdf)  
+**视频：**   
 	9.4实现注意：展开参数:[Implementation Note_ Unrolling Parameters](https://www.bilibili.com/video/av9912938/?p=54)  
 	9.5梯度检验:[Gradient Checking](https://www.bilibili.com/video/av9912938/?p=55)  
 	9.6随机初始化:[Random Initialization](https://www.bilibili.com/video/av9912938/?p=56)  
@@ -241,7 +242,7 @@
 ### Week 7  
 **第十二节：支持向量机(Support Vector Machines)**  
 **课件：**[lecture12](https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Course/lecture%20/Lecture12.pdf)  
-**笔记：**[lecture12-note12](https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Course/lecture-notes/lecture12.pdf)
+**笔记：**[lecture12-note12](https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Course/lecture-notes/lecture12.pdf)  
 **视频：**  
 	12.1优化目标:[Optimization Objective](https://www.bilibili.com/video/av9912938/?p=71)  
 	12.2大边界的直观理解:[Large Margin Intuition](https://www.bilibili.com/video/av9912938/?p=72)  
@@ -252,7 +253,7 @@
 
 **第十三节：聚类(Clustering)**  
 **课件：**[lecture13](https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Course/lecture%20/Lecture13.pdf)  
-**笔记：**[lecture13-note13](https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Course/lecture-notes/lecture13.pdf)
+**笔记：**[lecture13-note13](https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Course/lecture-notes/lecture13.pdf)  
 **视频：**   
 	13.1无监督学习：简介:[Unsupervised Learning_ Introduction](https://www.bilibili.com/video/av9912938/?p=77)  
 	13.2K-均值算法:[K-Means Algorithm](https://www.bilibili.com/video/av9912938/?p=78)  
@@ -266,7 +267,7 @@
 ### Week 8
 **第十四节：降维(Dimensionality Reduction)**  
 **课件：**[lecture14](https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Course/lecture%20/Lecture14.pdf)  
-**笔记：**[lecture14-note14](https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Course/lecture-notes/lecture14.pdf)
+**笔记：**[lecture14-note14](https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Course/lecture-notes/lecture14.pdf)  
 **视频：**     
 	14.1动机一：数据压缩:[Motivation I_ Data Compression](https://www.bilibili.com/video/av9912938/?p=82)  
 	14.2动机二：数据可视化:[Motivation II_ Visualization](https://www.bilibili.com/video/av9912938/?p=83)  
@@ -338,10 +339,11 @@
 
 **作业 Week10：**: [作业链接](https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Assignments/machine-learning-ex8/ex8.pdf)  
 2.推荐系统实现 Recommender Systems  
+**课程比赛：比赛介绍: **  
 
 ### Week 11
 **第十九节：总结(Conclusion)**  
-
+**视频：**  
 19.1总结和致谢:[Summary and Thank You](https://www.bilibili.com/video/av9912938/?p=113)  
-** 课程比赛：比赛 **  
+**课程比赛：比赛: **  
  
