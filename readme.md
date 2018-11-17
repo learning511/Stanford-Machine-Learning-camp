@@ -5,10 +5,9 @@
 1. [课程主页](https://www.coursera.org/course/ml)  
 2. [课程笔记]()  
 3. [课程视频]()  
-4. [环境配置 本地环境](https://github.com/learning511/cs224n-learning-camp/blob/master/environment.md)
-5. [环境配置 Docker](https://github.com/ufoym/deepo)
-6. [作业链接]() 
-7. 实验环境推荐使用Linux或者Mac系统，以下环境搭建方法皆适用:  
+4. [环境配置Anaconda](https://github.com/learning511/Stanford-Machine-Learning-camp/tree/master)
+5. [作业链接]() 
+6. 实验环境推荐使用Linux或者Mac系统，以下环境搭建方法皆适用:  
     [Docker环境配置](https://github.com/ufoym/deepo)  
     [本地环境配置](https://github.com/learning511/cs224n-learning-camp/blob/master/environment.md)
 
