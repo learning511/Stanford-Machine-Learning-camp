@@ -140,7 +140,7 @@
 ### Week 3  
 **第五节：Octave教程(Octave Tutorial 选修)（有Python基础可以忽略）**  
 **课件：**[lecture5](https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Course/lecture%20/Lecture5.pdf)  
-**笔记：**[lecture1-note5](https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Course/lecture-notes/lecture5.pdf)  
+**笔记：**[lecture5-note5](https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Course/lecture-notes/lecture5.pdf)  
 **视频：**  
 	5.1基本操作:[Working on and Submitting Programming Exercises](https://www.bilibili.com/video/av9912938/?p=26)  
 	5.2移动数据:[Basic Operations](https://www.bilibili.com/video/av9912938/?p=27)  
@@ -152,7 +152,7 @@
 
 **第六节：逻辑回归(Logistic Regression)**  
 **课件：**[lecture6](https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Course/lecture%20/Lecture6.pdf)  
-**笔记：**[lecture1-note6](https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Course/lecture-notes/lecture6.pdf)  
+**笔记：**[lecture6-note6](https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Course/lecture-notes/lecture6.pdf)  
 **视频：**  
 	6.1分类问题:[Classification](https://www.bilibili.com/video/av9912938/?p=33)  
 	6.2假说表示:[Hypothesis Representation](https://www.bilibili.com/video/av9912938/?p=34)  
@@ -169,7 +169,7 @@
 ### Week 4     
 **第七节：正则化(Regularization)**  
 **课件：**[lecture7](https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Course/lecture%20/Lecture7.pdf)  
-**笔记：**[lecture1-note7](https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Course/lecture-notes/lecture7.pdf)  
+**笔记：**[lecture7-note7](https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Course/lecture-notes/lecture7.pdf)  
 **视频：**                                  
 	7.1过拟合的问题:[The Problem of Overfitting](https://www.bilibili.com/video/av9912938/?p=40)  
 	7.2代价函数:[Cost Function](https://www.bilibili.com/video/av9912938/?p=41)  
@@ -178,7 +178,7 @@
 
 **第八节：神经网络：表述(Neural Networks: Representation)**  
 **课件：**[lecture8](https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Course/lecture%20/Lecture8.pdf)  
-**笔记：**[lecture1-note8](https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Course/lecture-notes/lecture8.pdf)  
+**笔记：**[lecture8-note8](https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Course/lecture-notes/lecture8.pdf)  
 **视频：**   
 	8.1非线性假设:[Non-linear Hypotheses](https://www.bilibili.com/video/av9912938/?p=44)  
 	8.2神经元和大脑:[Neurons and the Brain](https://www.bilibili.com/video/av9912938/?p=45)  
@@ -195,7 +195,7 @@
 ### Week 5  
 **第九节1：神经网络的学习(Neural Networks: Learning1)**  
 **课件：**[lecture9](https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Course/lecture%20/Lecture9.pdf)  
-**笔记：**[lecture1-note9](https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Course/lecture-notes/lecture9.pdf)  
+**笔记：**[lecture9-note9](https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Course/lecture-notes/lecture9.pdf)  
 
 	9.1代价函数:[Cost Function](https://www.bilibili.com/video/av9912938/?p=51)  
 	9.2反向传播算法:[Backpropagation Algorithm](https://www.bilibili.com/video/av9912938/?p=52)  
@@ -203,7 +203,7 @@
 
 **第九节2：神经网络的学习(Neural Networks: Learning2)**  
 **课件：**[lecture9](https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Course/lecture%20/Lecture9.pdf)  
-**笔记：**[lecture1-note9](https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Course/lecture-notes/lecture9.pdf)  
+**笔记：**[lecture9-note9](https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Course/lecture-notes/lecture9.pdf)  
 	9.4实现注意：展开参数:[Implementation Note_ Unrolling Parameters](https://www.bilibili.com/video/av9912938/?p=54)  
 	9.5梯度检验:[Gradient Checking](https://www.bilibili.com/video/av9912938/?p=55)  
 	9.6随机初始化:[Random Initialization](https://www.bilibili.com/video/av9912938/?p=56)  
@@ -216,7 +216,7 @@
 ### Week 6  
 **第十节：应用机器学习的建议(Advice for Applying Machine Learning)**  
 **课件：**[lecture10](https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Course/lecture%20/Lecture10.pdf)  
-**笔记：**[lecture1-note10](https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Course/lecture-notes/lecture10.pdf)  
+**笔记：**[lecture10-note10](https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Course/lecture-notes/lecture10.pdf)  
 **视频：**  
 	10.1决定下一步做什么:[Deciding What to Try Next](https://www.bilibili.com/video/av9912938/?p=59)  
 	10.2评估一个假设:[Evaluating a Hypothesis](https://www.bilibili.com/video/av9912938/?p=60)  
@@ -227,7 +227,7 @@
 	10.7决定下一步做什么:[Deciding What to Do Next Revisited](https://www.bilibili.com/video/av9912938/?p=65)                                        
 **第十一节：  机器学习系统的设计(Machine Learning System Design)**  
 **课件：**[lecture11](https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Course/lecture%20/Lecture11.pdf)  
-**笔记：**[lecture1-note11](https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Course/lecture-notes/lecture11.pdf))  
+**笔记：**[lecture11-note11](https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Course/lecture-notes/lecture11.pdf)  
 **视频：**  
 	11.1首先要做什么:[Prioritizing What to Work On](https://www.bilibili.com/video/av9912938/?p=66)  
 	11.2误差分析:[Error Analysis](https://www.bilibili.com/video/av9912938/?p=67)  
@@ -241,7 +241,7 @@
 ### Week 7  
 **第十二节：支持向量机(Support Vector Machines)**  
 **课件：**[lecture12](https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Course/lecture%20/Lecture12.pdf)  
-**笔记：**[lecture1-note12](https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Course/lecture-notes/lecture12.pdf))  
+**笔记：**[lecture12-note12](https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Course/lecture-notes/lecture12.pdf)
 **视频：**  
 	12.1优化目标:[Optimization Objective](https://www.bilibili.com/video/av9912938/?p=71)  
 	12.2大边界的直观理解:[Large Margin Intuition](https://www.bilibili.com/video/av9912938/?p=72)  
@@ -252,7 +252,7 @@
 
 **第十三节：聚类(Clustering)**  
 **课件：**[lecture13](https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Course/lecture%20/Lecture13.pdf)  
-**笔记：**[lecture1-note13](https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Course/lecture-notes/lecture13.pdf))  
+**笔记：**[lecture13-note13](https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Course/lecture-notes/lecture13.pdf)
 **视频：**   
 	13.1无监督学习：简介:[Unsupervised Learning_ Introduction](https://www.bilibili.com/video/av9912938/?p=77)  
 	13.2K-均值算法:[K-Means Algorithm](https://www.bilibili.com/video/av9912938/?p=78)  
@@ -266,7 +266,7 @@
 ### Week 8
 **第十四节：降维(Dimensionality Reduction)**  
 **课件：**[lecture14](https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Course/lecture%20/Lecture14.pdf)  
-**笔记：**[lecture1-note14](https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Course/lecture-notes/lecture14.pdf))
+**笔记：**[lecture14-note14](https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Course/lecture-notes/lecture14.pdf)
 **视频：**     
 	14.1动机一：数据压缩:[Motivation I_ Data Compression](https://www.bilibili.com/video/av9912938/?p=82)  
 	14.2动机二：数据可视化:[Motivation II_ Visualization](https://www.bilibili.com/video/av9912938/?p=83)  
@@ -278,7 +278,7 @@
 
 **第十五节：异常检测(Anomaly Detection)**  
 **课件：**[lecture15](https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Course/lecture%20/Lecture15.pdf)  
-**笔记：**[lecture1-note15](https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Course/lecture-notes/lecture15.pdf))  
+**笔记：**[lecture15-note15](https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Course/lecture-notes/lecture15.pdf)  
 **视频：**   
 	15.1问题的动机:[Problem Motivation](https://www.bilibili.com/video/av9912938/?p=89)  
 	15.2高斯分布:[Gaussian Distribution](https://www.bilibili.com/video/av9912938/?p=90)  
@@ -296,7 +296,7 @@
 ### Week 9  
 **第十六节：推荐系统(Recommender Systems)**  
 **课件：**[lecture16](https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Course/lecture%20/Lecture16.pdf)  
-**笔记：**[lecture1-note16](https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Course/lecture-notes/lecture16.pdf))  
+**笔记：**[lecture16-note16](https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Course/lecture-notes/lecture16.pdf)  
 **视频：**  
 	16.1问题形式化:[Problem Formulation](https://www.bilibili.com/video/av9912938/?p=97)  
 	16.2基于内容的推荐系统:[Content Based Recommendations](https://www.bilibili.com/video/av9912938/?p=98)  
@@ -307,7 +307,7 @@
 
 **第十七节：大规模机器学习(Large Scale Machine Learning)**  
 **课件：**[lecture17](https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Course/lecture%20/Lecture17.pdf)  
-**笔记：**[lecture1-note17](https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Course/lecture-notes/lecture17.pdf))  
+**笔记：**[lecture17-note17](https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Course/lecture-notes/lecture17.pdf))  
 **视频：**  
 	17.1大型数据集的学习:[Learning With Large Datasets](https://www.bilibili.com/video/av9912938/?p=103)  
 	17.2随机梯度下降法:[Stochastic Gradient Descent](https://www.bilibili.com/video/av9912938/?p=104)  
@@ -324,7 +324,7 @@
 ### Week 10  
 **第十八节1： 应用实例：图片文字识别(Application Example: Photo OCR)**  
 **课件：**[lecture18](https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Course/lecture%20/Lecture18.pdf)  
-**笔记：**[lecture1-note18](https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Course/lecture-notes/lecture18.pdf))  
+**笔记：**[lecture18-note18](https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Course/lecture-notes/lecture18.pdf)  
 **视频：**  
 	18.1问题描述和流程图:[Problem Description and Pipeline](https://www.bilibili.com/video/av9912938/?p=109)  
 	18.2滑动窗口:[Sliding Windows](https://www.bilibili.com/video/av9912938/?p=110)   
