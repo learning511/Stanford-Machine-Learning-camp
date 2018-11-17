@@ -4,7 +4,7 @@
 ## 课程资料
 1. [课程主页](https://www.coursera.org/course/ml)  
 2. [课程笔记]()  
-3. [课程视频]()  
+3. [课程视频](https://www.bilibili.com/video/av9912938/?p=1)  
 4. [环境配置Anaconda](https://github.com/learning511/Stanford-Machine-Learning-camp/tree/master)
 5. [作业链接]() 
 6. 实验环境推荐使用Linux或者Mac系统，以下环境搭建方法皆适用:  
