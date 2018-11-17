@@ -110,6 +110,7 @@
 1.环境配置  
 2.开学习博客和github  
 
+---------------------------------------------------------
 ### week 2   
 **第三节： 线性代数回顾(Linear Algebra Review)**  
 **课件：**[lecture3](https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Course/lecture%20/Lecture3.pdf)  
@@ -136,6 +137,8 @@
 **作业 Week2：**: [作业链接](https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Assignments/machine-learning-ex1/ex1.pdf)  
 1.线性回归 Linear Regression  
 2.多远线性回归 Linear Regression with multiple variables
+
+---------------------------------------------------------
 
 ### Week 3  
 **第五节：Octave教程(Octave Tutorial 选修)（有Python基础可以忽略）**  
@@ -166,6 +169,8 @@
 1. 逻辑回归 Logistic Regression
 2. 带有正则项的逻辑回归 Logistic Regression with Regularization
 
+---------------------------------------------------------
+
 ### Week 4     
 **第七节：正则化(Regularization)**  
 **课件：**[lecture7](https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Course/lecture%20/Lecture7.pdf)  
@@ -190,6 +195,8 @@
 **作业 Week4：**: [作业链接](https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Assignments/machine-learning-ex3/ex3.pdf)  
 1. 多元分类 Multiclass Classification
 2. 神经网络预测函数 Neural Networks Prediction fuction
+
+---------------------------------------------------------
    
 
 ### Week 5  
@@ -213,6 +220,8 @@
 
 **作业 Week5：**: [作业链接](https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Assignments/machine-learning-ex4/ex4.pdf)  
 1. 神经网络实现 Neural Networks Learning  
+
+---------------------------------------------------------
 
 ### Week 6  
 **第十节：应用机器学习的建议(Advice for Applying Machine Learning)**  
@@ -239,6 +248,8 @@
 1. 正则线性回归 Regularized Linear Regression  
 2. 偏移和方差 Bias vs. Variance  
 
+---------------------------------------------------------
+
 ### Week 7  
 **第十二节：支持向量机(Support Vector Machines)**  
 **课件：**[lecture12](https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Course/lecture%20/Lecture12.pdf)  
@@ -263,6 +274,8 @@
 **作业 Week7：**: [作业链接](https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Assignments/machine-learning-ex6/ex6.pdf)  
 1. SVM实现
 2. 垃圾邮件分类 Spam email Classifier  
+
+---------------------------------------------------------
 
 ### Week 8
 **第十四节：降维(Dimensionality Reduction)**  
@@ -293,6 +306,8 @@
 1. K-means 聚类算法 Clustering  
 2. PCA 主成分析 Principal Component Analysis  
 
+---------------------------------------------------------
+
 
 ### Week 9  
 **第十六节：推荐系统(Recommender Systems)**  
@@ -321,6 +336,8 @@
   
 1. 异常检测 Anomaly Detection    
 
+---------------------------------------------------------
+
 
 ### Week 10  
 **第十八节1： 应用实例：图片文字识别(Application Example: Photo OCR)**  
@@ -341,9 +358,13 @@
 2.推荐系统实现 Recommender Systems  
 **课程比赛：比赛介绍: **  
 
+---------------------------------------------------------
+
 ### Week 11
 **第十九节：总结(Conclusion)**  
 **视频：**  
 19.1总结和致谢:[Summary and Thank You](https://www.bilibili.com/video/av9912938/?p=113)  
 **课程比赛：比赛: **  
  
+ 
+ ---------------------------------------------------------
