@@ -19,10 +19,12 @@
 4. [github教程](https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
 5. [莫烦机器学习教程](https://morvanzhou.github.io/tutorials)
 6. [深度学习经典论文](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap.git)
-7. [斯坦福cs229代码(机器学习算法python徒手实现)](https://github.com/nsoojin/coursera-ml-py.git)  
+7. [机器学习代码修行100天](https://github.com/Avik-Jain/100-Days-Of-ML-Code)  
 8. [吴恩达机器学习新书：machine learning yearning](https://github.com/AcceptedDoge/machine-learning-yearning-cn)  
 9. [本人博客(机器学习基础算法专题)](https://blog.csdn.net/dukuku5038/article/details/82253966)  
 10. [本人博客(深度学习专题)](https://blog.csdn.net/column/details/28693.html)  
+11. [自上而下的学习路线: 软件工程师的机器学习](https://github.com/ZuzooVn/machine-learning-for-software-engineers/blob/master/README-zh-CN.md)  
+
 
 
 ## 1. 前言 
