@@ -32,7 +32,7 @@
 
 吴恩达在斯坦福的机器学习课，是很多人最初入门机器学习的课，10年有余，目前仍然是最经典的机器学习课程之一。当时因为这门课太火爆，吴恩达不得不弄了个超大的网络课程来授课，结果一不小心从斯坦福火遍全球，而后来的事情大家都知道了。吴恩达这些年，从谷歌大脑项目到创立Coursera再到百度首席科学家再再到最新开设了深度学习deeplearning.ai，辗转多年依然对CS229不离不弃。  
 
-个人认为：吴恩达的机器学习课程在机器学习入门的贡献相当于牛顿、莱布尼茨对于微积分的贡献。区别在于，吴恩达影响了10年，牛顿影响了200年。
+个人认为：吴恩达的机器学习课程在机器学习入门的贡献相当于牛顿、莱布尼茨对于微积分的贡献。区别在于，吴恩达影响了10年，牛顿影响了200年。(个人观点)
 
 本课程提供了一个广泛的介绍机器学习、数据挖掘、统计模式识别的课程。主题包括：
 
@@ -85,7 +85,14 @@
 <4> 注意不要改变作业中的《方法名》《类名》不然会检测失败！！ 
 
 ## 7.学习安排
-### week 1 
+### week 1  
+**学习组队**  
+**比赛观摩**  
+
+**作业 Week1：**:  
+制定自己的学习计划  
+
+### week 2 
 **第一节： 引言(Introduction)**  
 **课件：**[lecture1](https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Course/lecture%20/Lecture1.pdf)  
 **笔记：**[lecture1-note1](https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Course/lecture-notes/lecture1.pdf)  
@@ -108,12 +115,12 @@
 		2.7梯度下降的线性回归:[Gradient Descent Intuition](https://www.bilibili.com/video/av9912938/?p=11)  
 		2.8接下来的内容:[GradientDescentForLinearRegression](https://www.bilibili.com/video/av9912938/?p=12)                                     
 
-**作业 Week1：**:  
+**作业 Week2：**:  
 1.环境配置  
 2.开学习博客和github  
 
 ---------------------------------------------------------
-### week 2   
+### week 3   
 **第三节： 线性代数回顾(Linear Algebra Review)**  
 **课件：**[lecture3](https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Course/lecture%20/Lecture3.pdf)  
 **笔记：**[lecture3-note3](https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Course/lecture-notes/lecture3.pdf)  
@@ -136,13 +143,13 @@
 	4.5特征和多项式回归:[Features and Polynomial Regression](https://www.bilibili.com/video/av9912938/?p=23)  
 	4.6正规方程:[Normal Equation](https://www.bilibili.com/video/av9912938/?p=24)  
 	4.7正规方程及不可逆性（选修）:[Normal Equation Noninvertibility (Optional)](https://www.bilibili.com/video/av9912938/?p=25)  
-**作业 Week2：**: [作业链接](https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Assignments/machine-learning-ex1/ex1.pdf)  
+**作业 Week3：**: [作业链接](https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Assignments/machine-learning-ex1/ex1.pdf)  
 1.线性回归 Linear Regression  
 2.多远线性回归 Linear Regression with multiple variables
 
 ---------------------------------------------------------
 
-### Week 3  
+### Week 4  
 **第五节：Octave教程(Octave Tutorial 选修)（有Python基础可以忽略）**  
 **课件：**[lecture5](https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Course/lecture%20/Lecture5.pdf)  
 **笔记：**[lecture5-note5](https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Course/lecture-notes/lecture5.pdf)  
@@ -167,13 +174,13 @@
 	6.6高级优化:[Advanced Optimization](https://www.bilibili.com/video/av9912938/?p=38)  
 	6.7多类别分类：一对多:[Multiclass Classification_ One-vs-all](https://www.bilibili.com/video/av9912938/?p=39)  
 
-**作业 Week3：**: [作业链接](https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Assignments/machine-learning-ex2/ex2.pdf)  
+**作业 Week4：**: [作业链接](https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Assignments/machine-learning-ex2/ex2.pdf)  
 1. 逻辑回归 Logistic Regression
 2. 带有正则项的逻辑回归 Logistic Regression with Regularization
 
 ---------------------------------------------------------
 
-### Week 4     
+### Week 5     
 **第七节：正则化(Regularization)**  
 **课件：**[lecture7](https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Course/lecture%20/Lecture7.pdf)  
 **笔记：**[lecture7-note7](https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Course/lecture-notes/lecture7.pdf)  
@@ -194,14 +201,14 @@
 	8.5样本和直观理解1:[Examples and Intuitions I](https://www.bilibili.com/video/av9912938/?p=48)  
 	8.6样本和直观理解II:[Examples and Intuitions II](https://www.bilibili.com/video/av9912938/?p=49)  
 	8.7多类分类:[Multiclass Classification](https://www.bilibili.com/video/av9912938/?p=50)  
-**作业 Week4：**: [作业链接](https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Assignments/machine-learning-ex3/ex3.pdf)  
+**作业 Week5：**: [作业链接](https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Assignments/machine-learning-ex3/ex3.pdf)  
 1. 多元分类 Multiclass Classification
 2. 神经网络预测函数 Neural Networks Prediction fuction
 
 ---------------------------------------------------------
    
 
-### Week 5  
+### Week 6  
 **第九节1：神经网络的学习(Neural Networks: Learning1)**  
 **课件：**[lecture9](https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Course/lecture%20/Lecture9.pdf)  
 **笔记：**[lecture9-note9](https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Course/lecture-notes/lecture9.pdf)   
@@ -220,12 +227,12 @@
 	9.7综合起来:[Putting It Together](https://www.bilibili.com/video/av9912938/?p=57)  
 	9.8自主驾驶:[Autonomous Driving](https://www.bilibili.com/video/av9912938/?p=58)  
 
-**作业 Week5：**: [作业链接](https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Assignments/machine-learning-ex4/ex4.pdf)  
+**作业 Week6：**: [作业链接](https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Assignments/machine-learning-ex4/ex4.pdf)  
 1. 神经网络实现 Neural Networks Learning  
 
 ---------------------------------------------------------
 
-### Week 6  
+### Week 7  
 **第十节：应用机器学习的建议(Advice for Applying Machine Learning)**  
 **课件：**[lecture10](https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Course/lecture%20/Lecture10.pdf)  
 **笔记：**[lecture10-note10](https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Course/lecture-notes/lecture10.pdf)  
@@ -246,13 +253,13 @@
 	11.3类偏斜的误差度量:[Error Metrics for Skewed Classes](https://www.bilibili.com/video/av9912938/?p=68)  
 	11.4查准率和查全率之间的权衡:[Trading Off Precision and Recall](https://www.bilibili.com/video/av9912938/?p=69)  
 	11.5机器学习的数据:[Data For Machine Learning](https://www.bilibili.com/video/av9912938/?p=70)  
-**作业 Week6：**: [作业链接](https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Assignments/machine-learning-ex5/ex5.pdf)  
+**作业 Week7：**: [作业链接](https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Assignments/machine-learning-ex5/ex5.pdf)  
 1. 正则线性回归 Regularized Linear Regression  
 2. 偏移和方差 Bias vs. Variance  
 
 ---------------------------------------------------------
 
-### Week 7  
+### Week 8  
 **第十二节：支持向量机(Support Vector Machines)**  
 **课件：**[lecture12](https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Course/lecture%20/Lecture12.pdf)  
 **笔记：**[lecture12-note12](https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Course/lecture-notes/lecture12.pdf)  
@@ -273,13 +280,13 @@
 	13.3优化目标:[Optimization Objective](https://www.bilibili.com/video/av9912938/?p=79)  
 	13.4随机初始化:[Random Initialization](https://www.bilibili.com/video/av9912938/?p=80)  
 	13.5选择聚类数:[Choosing the Number of Clusters](https://www.bilibili.com/video/av9912938/?p=81)  
-**作业 Week7：**: [作业链接](https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Assignments/machine-learning-ex6/ex6.pdf)  
+**作业 Week8：**: [作业链接](https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Assignments/machine-learning-ex6/ex6.pdf)  
 1. SVM实现
 2. 垃圾邮件分类 Spam email Classifier  
 
 ---------------------------------------------------------
 
-### Week 8
+### Week 9
 **第十四节：降维(Dimensionality Reduction)**  
 **课件：**[lecture14](https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Course/lecture%20/Lecture14.pdf)  
 **笔记：**[lecture14-note14](https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Course/lecture-notes/lecture14.pdf)  
@@ -304,14 +311,14 @@
 	15.6选择特征:[Choosing What Features to Use](https://www.bilibili.com/video/av9912938/?p=94)  
 	15.7多元高斯分布（选修）:[Multivariate Gaussian Distribution (Optional)](https://www.bilibili.com/video/av9912938/?p=95)  
 	15.8使用多元高斯分布进行异常检测（选修）:[Anomaly Detection using the Multivariate Gaussian Distribution (Optiona](https://www.bilibili.com/video/av9912938/?p=96)  
-**作业 Week8：**: [作业链接](https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Assignments/machine-learning-ex7/ex7.pdf)  
+**作业 Week9：**: [作业链接](https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Assignments/machine-learning-ex7/ex7.pdf)  
 1. K-means 聚类算法 Clustering  
 2. PCA 主成分析 Principal Component Analysis  
 
 ---------------------------------------------------------
 
 
-### Week 9  
+### Week 10  
 **第十六节：推荐系统(Recommender Systems)**  
 **课件：**[lecture16](https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Course/lecture%20/Lecture16.pdf)  
 **笔记：**[lecture16-note16](https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Course/lecture-notes/lecture16.pdf)  
@@ -334,14 +341,14 @@
 	17.5在线学习:[Online Learning](https://www.bilibili.com/video/av9912938/?p=107)  
 	17.6映射化简和数据并行:[Map Reduce and Data Parallelism](https://www.bilibili.com/video/av9912938/?p=108)  
 
-**作业 Week9：**: [作业链接](https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Assignments/machine-learning-ex8/ex8.pdf)  
+**作业 Week10：**: [作业链接](https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Assignments/machine-learning-ex8/ex8.pdf)  
   
 1. 异常检测 Anomaly Detection    
 
 ---------------------------------------------------------
 
 
-### Week 10  
+### Week 11  
 **第十八节1： 应用实例：图片文字识别(Application Example: Photo OCR)**  
 **课件：**[lecture18](https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Course/lecture%20/Lecture18.pdf)  
 **笔记：**[lecture18-note18](https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Course/lecture-notes/lecture18.pdf)  
@@ -356,17 +363,17 @@
 	18.4上限分析：哪部分管道的接下去做:[Ceiling Analysis_ What Part of the Pipeline to Work on Next](https://www.bilibili.com/video/av9912938/?p=112)  
 
 
-**作业 Week10：**: [作业链接](https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Assignments/machine-learning-ex8/ex8.pdf)  
+**作业 Week11：**: [作业链接](https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Assignments/machine-learning-ex8/ex8.pdf)  
 2.推荐系统实现 Recommender Systems  
 **课程比赛：比赛介绍: **  
 
 ---------------------------------------------------------
 
-### Week 11
+### Week 12
 **第十九节：总结(Conclusion)**  
 **视频：**  
 19.1总结和致谢:[Summary and Thank You](https://www.bilibili.com/video/av9912938/?p=113)  
 **课程比赛：比赛: **  
- 
+ Kaggle 比赛： 泰坦尼克 Titanic
  
  ---------------------------------------------------------
