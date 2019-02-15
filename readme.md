@@ -13,17 +13,19 @@
 
 
 ## 重要一些的资源：
-1. [深度学习经典论文](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap.git)
-2. [深度学习斯坦福教程](http://deeplearning.stanford.edu/wiki/index.php/UFLDL%E6%95%99%E7%A8%8B)
-3. [廖雪峰python3教程](https://www.liaoxuefeng.com/article/001432619295115c918a094d8954bd493037b03d27bf9a9000)
-4. [github教程](https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
-5. [莫烦机器学习教程](https://morvanzhou.github.io/tutorials)
-6. [深度学习经典论文](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap.git)
-7. [机器学习代码修行100天](https://github.com/Avik-Jain/100-Days-Of-ML-Code)  
-8. [吴恩达机器学习新书：machine learning yearning](https://github.com/AcceptedDoge/machine-learning-yearning-cn)  
-9. [本人博客(机器学习基础算法专题)](https://blog.csdn.net/dukuku5038/article/details/82253966)  
-10. [本人博客(深度学习专题)](https://blog.csdn.net/column/details/28693.html)  
-11. [自上而下的学习路线: 软件工程师的机器学习](https://github.com/ZuzooVn/machine-learning-for-software-engineers/blob/master/README-zh-CN.md)  
+1. [Dr.Wu 博客71篇(机器学习、深度学习、强化学习、对抗网络)](https://me.csdn.net/dukuku5038)  
+2. [Dr.Wu 本人知乎](https://www.zhihu.com/people/Dr.Wu/activities)  
+3. [深度学习经典论文](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap.git)
+4. [深度学习斯坦福教程](http://deeplearning.stanford.edu/wiki/index.php/UFLDL%E6%95%99%E7%A8%8B)
+5. [廖雪峰python3教程](https://www.liaoxuefeng.com/article/001432619295115c918a094d8954bd493037b03d27bf9a9000)
+6. [github教程](https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
+7. [莫烦机器学习教程](https://morvanzhou.github.io/tutorials)
+8. [深度学习经典论文](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap.git)
+9. [机器学习代码修行100天](https://github.com/Avik-Jain/100-Days-Of-ML-Code)  
+10. [吴恩达机器学习新书：machine learning yearning](https://github.com/AcceptedDoge/machine-learning-yearning-cn)  
+11. [本人博客(机器学习基础算法专题)](https://blog.csdn.net/dukuku5038/article/details/82253966)  
+12. [本人博客(深度学习专题)](https://blog.csdn.net/column/details/28693.html)  
+13. [自上而下的学习路线: 软件工程师的机器学习](https://github.com/ZuzooVn/machine-learning-for-software-engineers/blob/master/README-zh-CN.md)  
 
 
 
